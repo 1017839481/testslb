@@ -1,0 +1,3 @@
+language:java
+JDK:
+	JavaSE-1.6
